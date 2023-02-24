@@ -18,7 +18,7 @@ Some knowledges about me :
 
 ### What I can work with, but not my best languages
 
-![Languages and Tools](https://skillicons.dev/icons?i=go,ts,c)
+![Languages and Tools](https://skillicons.dev/icons?i=python,ts,go,c)
 
 ### CI/CD and infrastucture
 
