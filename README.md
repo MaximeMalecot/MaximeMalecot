@@ -16,13 +16,13 @@ Some knowledges about me :
 
 ![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,symfony,js,php,html,css)
 
-### What I can work with, but not my best languages
-
-![Languages and Tools](https://skillicons.dev/icons?i=python,ts,go,c)
-
 ### CI/CD and infrastucture
 
 ![Languages and Tools](https://skillicons.dev/icons?i=docker,github,aws,gcp,vercel)
+
+### Some languages that I already used a bit
+
+![Languages and Tools](https://skillicons.dev/icons?i=python,ts,go,c)
 
 ## Contacts 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/maxime-malecot-44759b1a1)
