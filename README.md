@@ -12,7 +12,7 @@ Some knowledges about me :
 [![MaximeMalecot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeMalecot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMalecot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- ### My favorite languages
+ ### My favorite languages/frameworks/libraries
 
 ![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,symfony,js,php,html,css)
 
