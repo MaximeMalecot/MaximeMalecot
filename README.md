@@ -18,7 +18,7 @@ Some knowledges about me :
 
 ### CI/CD and infrastucture
 
-![Languages and Tools](https://skillicons.dev/icons?i=docker,github,aws,gcp,vercel)
+![Languages and Tools](https://skillicons.dev/icons?i=docker,github,aws,gcp,vercel,k8s)
 
 ### Some languages that I already used a bit
 
