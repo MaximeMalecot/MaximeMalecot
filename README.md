@@ -22,7 +22,7 @@ Some knowledges about me :
 
 ### Some languages that I already used a bit
 
-![Languages and Tools](https://skillicons.dev/icons?i=python,django,ts,go,java,powershell,c)
+![Languages and Tools](https://skillicons.dev/icons?i=next,nest,ts,go,java)
 
 ## Contacts 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/maxime-malecot-44759b1a1)
