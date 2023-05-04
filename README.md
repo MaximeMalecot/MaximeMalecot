@@ -5,7 +5,7 @@ Some knowledges about me :
 - Most of my repositories are school projects
 - I work part-time for Crit France, as a Fullstack developper
 - I try to learn as much as possible in infrastructure deployment, and architecturation's best practices
-- I'm a Valorant enjoyer
+- I prefer back-end to front-end even if I'm fullstack.
 
 ### Some stats about me
 
