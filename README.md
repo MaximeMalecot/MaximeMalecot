@@ -9,7 +9,7 @@ Some knowledges about me :
 
  ### My favorite languages/frameworks/libraries
 
-![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,symfony,js,php,html,css)
+![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,nest,symfony,js,php)
 
 ### CI/CD and infrastucture
 
@@ -17,7 +17,7 @@ Some knowledges about me :
 
 ### Some languages that I already used a bit
 
-![Languages and Tools](https://skillicons.dev/icons?i=next,nest,ts,go,java)
+![Languages and Tools](https://skillicons.dev/icons?i=next,ts,go,java)
 
 ## Contacts 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:92maximemalecot@gmail.com)
