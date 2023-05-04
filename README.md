@@ -7,11 +7,6 @@ Some knowledges about me :
 - I try to learn as much as possible in infrastructure deployment, and architecturation's best practices
 - I prefer back-end to front-end even if I'm fullstack.
 
-### Some stats about me
-
-[![MaximeMalecot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeMalecot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMalecot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
  ### My favorite languages/frameworks/libraries
 
 ![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,symfony,js,php,html,css)
