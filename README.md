@@ -9,15 +9,15 @@ Some knowledges about me :
 
  ### My favorite languages/frameworks/libraries
 
-![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,nest,symfony,js,php)
+![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,nest,ts,symfony,js,php)
 
 ### CI/CD and infrastucture
 
-![Languages and Tools](https://skillicons.dev/icons?i=docker,github,aws,gcp,vercel,k8s)
+![Languages and Tools](https://skillicons.dev/icons?i=docker,github,gcp,k8s,aws,vercel)
 
 ### Some languages that I already used a bit
 
-![Languages and Tools](https://skillicons.dev/icons?i=next,ts,go,java)
+![Languages and Tools](https://skillicons.dev/icons?i=next,go,java)
 
 ## Contacts 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:92maximemalecot@gmail.com)
