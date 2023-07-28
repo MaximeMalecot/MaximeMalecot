@@ -3,9 +3,8 @@
 I'm MaximeMalecot, a student at ESGI Paris soon graduating. 
 Some knowledges about me :
 - Most of my repositories are school projects
-- I work part-time for Crit France, as a Fullstack developper
+- I have 3 years of experience as a Fullstack developper in apprenticeship
 - I try to learn as much as possible in infrastructure deployment, and architecturation's best practices
-- I prefer back-end to front-end even if I'm fullstack.
 
  ### My favorite languages/frameworks/libraries
 
