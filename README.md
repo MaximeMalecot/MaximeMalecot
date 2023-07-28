@@ -8,7 +8,7 @@ Some knowledges about me :
 
  ### My favorite languages/frameworks/libraries
 
-![Languages and Tools](https://skillicons.dev/icons?i=react,nodejs,nest,ts,symfony,js,php)
+![Languages and Tools](https://skillicons.dev/icons?i=nest,react,nodejs,ts,symfony,js,php)
 
 ### CI/CD and infrastucture
 
